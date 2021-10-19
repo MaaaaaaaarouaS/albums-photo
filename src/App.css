@@ -1,0 +1,50 @@
+body {
+  font-family: Times, Times New Roman, serif;
+  background: linear-gradient(90deg, #ffe599 50%, #FFFFFF 50%);
+}
+@media(max-width: 1084px){
+  body {
+    background: linear-gradient(0deg, #ffe599 25%, #FFFFFF 25%);
+  }
+  .logo{
+    height: 120px;
+    width: 120px;
+    background-color: #fff2cc;
+    border-radius: 50%;
+    display: inline-block;
+    color: #f1c232;
+    margin-top: 14%;
+    margin-left: 35%;
+  }
+}
+.dot {
+  height: 32px;
+  width: 32px;
+  background-color: #f1c232;
+  border-radius: 50%;
+  display: inline-block;
+  margin-bottom: -15px;
+}
+.grid_form{
+  padding :20px;
+  height:60vh;
+  width:330px;
+  margin:20px auto;
+  border: 1px solid #f1c232;
+  margin-top: 100px;
+}
+h2{
+  color: #f1c232;
+}
+.logo{
+  height: 120px;
+  width: 120px;
+  background-color: #fff2cc;
+  border-radius: 50%;
+  display: inline-block;
+  color: #f1c232;
+}
+.grid{
+  margin-top: -22%;
+  margin-left: -50%;
+}
